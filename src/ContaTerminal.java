@@ -19,7 +19,7 @@ public class ContaTerminal {
 
         System.out.println("Digite o número da conta:");
         numero = sc.nextInt();
-
+        
         System.out.println("Digite o saldo:");
         saldo = sc.nextDouble();
 
